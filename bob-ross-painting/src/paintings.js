@@ -1,6 +1,7 @@
 import victorMtn1 from './paintings/victor-mtn-1.jpeg';
 import kimMtn1 from './paintings/kim-mtn-1.jpeg';
 
+//data of paintings, title of painting, etc.
 export const paintings = [
     {
         id: 1,
