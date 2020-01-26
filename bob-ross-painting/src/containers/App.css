@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple&display=swap');
+
+body{
+    background-color: #ffeadb;
+}
+
+.title{
+    font-family: 'Homemade Apple', cursive;
+    color: #678a74;
+}
+
+.buttonA{
+    background-color: #2b5239;
+    color: #ffeadb;
+}
+
+.buttonA:hover{
+    cursor: pointer;
+}
+
+.card {
+    background-color: #f7c5a88a;
+    color: #2b5239;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.content{
+    background-color: #f7c5a88a;
+}

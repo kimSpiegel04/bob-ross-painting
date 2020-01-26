@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import CardList from './CardList';
-import SearchTitle from './SearchTitle';
-import SearchArtist from './SearchArtist';
-import { paintings } from './paintings';
+import CardList from '../components/CardList';
+import SearchTitle from '../components/SearchTitle';
+import SearchArtist from '../components/SearchArtist';
+import { paintings } from '../paintings';
+import './App.css';
 
 
 
@@ -38,9 +39,9 @@ class App extends Component {
         return (
             <div className='tc'>
                 {/* Header */}
-                <h1>Victor and Kim's Happy Little Paintings</h1>
+                <h1 className='title'>Victor and Kim's Happy Little Paintings</h1>
                 {/* Search box */}
-                <SearchTitle searchChange={this.onSearchChange}/>
+                {/* <SearchTitle searchChange={this.onSearchChange}/> */}
                 {/* CardList renders the Card of paintings */}
                 <SearchArtist searchChange={this.onArtistChange}/>
                 <CardList paintings={ filteredArtist } />
