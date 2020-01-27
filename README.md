@@ -19,7 +19,7 @@ npm start
 
 ## Built With
 
-* [React](https://reactjs.org/) - The web framework used
+* [React](https://reactjs.org/) - Library used
 * [react-popup](https://react-popup.elazizi.com/) - Used for pop up modals
 * [TACHYONS](https://tachyons.io/) - Used for styling
 
