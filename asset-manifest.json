@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bob-ross-painting/static/css/main.f0f95423.chunk.css",
+    "main.js": "/bob-ross-painting/static/js/main.ecbb6f34.chunk.js",
+    "main.js.map": "/bob-ross-painting/static/js/main.ecbb6f34.chunk.js.map",
+    "runtime-main.js": "/bob-ross-painting/static/js/runtime-main.db80f7d1.js",
+    "runtime-main.js.map": "/bob-ross-painting/static/js/runtime-main.db80f7d1.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/bob-ross-painting/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.366ea78d.chunk.js": "/bob-ross-painting/static/js/2.366ea78d.chunk.js",
+    "static/js/2.366ea78d.chunk.js.map": "/bob-ross-painting/static/js/2.366ea78d.chunk.js.map",
+    "index.html": "/bob-ross-painting/index.html",
+    "precache-manifest.f00d214ab4e925972bb4311af2ac0471.js": "/bob-ross-painting/precache-manifest.f00d214ab4e925972bb4311af2ac0471.js",
+    "service-worker.js": "/bob-ross-painting/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/bob-ross-painting/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f0f95423.chunk.css.map": "/bob-ross-painting/static/css/main.f0f95423.chunk.css.map",
+    "static/js/2.366ea78d.chunk.js.LICENSE": "/bob-ross-painting/static/js/2.366ea78d.chunk.js.LICENSE",
+    "static/media/kim-mtn-1.jpeg": "/bob-ross-painting/static/media/kim-mtn-1.1ff15b00.jpeg",
+    "static/media/victor-mtn-1.jpeg": "/bob-ross-painting/static/media/victor-mtn-1.ba9b9a4d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db80f7d1.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.366ea78d.chunk.js",
+    "static/css/main.f0f95423.chunk.css",
+    "static/js/main.ecbb6f34.chunk.js"
+  ]
+}
